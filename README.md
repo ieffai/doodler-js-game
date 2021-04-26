@@ -6,10 +6,14 @@ A clone of game Doodler, made in pure JavaScript, HTML and CSS
 
 https://ieffai.github.io/doodler-js-game/
 
-- **Controls**
+- **🕹 Controls 🕹**
 
-← - move girl left
-→ - move girl right
-↑ - straighten up
+- ← - move girl left
+- → - move girl right
+- ↑ - straighten up
+
+---
+
+## ![doodler-game](./demo-doodler.gif)
 
 ## Have fun :-)
