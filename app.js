@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', () => {
            grid.removeChild(grid.firstChild)
        }
        grid.appendChild(message);
-       message.innerText = 'Поражение, твой счет ' + score;  
+       message.innerText = 'Ha-ha!!! You are lost! Score is ' + score;  
        document.addEventListener('click', (event) => {
         if (event.target.classList.contains('starter')) {
           window.location.reload();
