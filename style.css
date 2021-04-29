@@ -1,6 +1,11 @@
+body {
+  display: flex;
+  background-color: black;
+}
+
 .grid {
   width: 400px;
-  height: 600px;
+  height: 510px;
   background-image: url(fon.png);
   background-size: contain;
   background-repeat: no-repeat;
@@ -8,6 +13,9 @@
   position: relative;
   font-size: 50px;
   text-align: center;
+  margin: 0 auto;
+  z-index: 1;
+  overflow: hidden;
 }
 
 .doodler {
