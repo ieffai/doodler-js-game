@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let doodlerBottomSpace = startPoint;
 
     let isGameOver = false;
-    let platformCount = 5;
+    let platformCount = 4;
     let platforms = [];
     let upTimerId;
     let downTimerId;
